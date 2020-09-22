@@ -33,12 +33,12 @@
 
   "flex-layout.row#qty": {
     "children": [
-      "flex-layout.col#left2",
-      "flex-layout.col#right2"
+      "flex-layout.col#left-col",
+      "flex-layout.col#right-col"
     ]
   },
 
-  "flex-layout.col#left2": {
+  "flex-layout.col#left-col": {
     "props": {
       "verticalAlign": "middle"
     },
@@ -46,7 +46,11 @@
       "sku-selector"
     ]
   },
-  "flex-layout.col#right2": {
+
+  "flex-layout.col#right-col": {
+    "props": {
+      "verticalAlign": "middle"
+    },
     "children": [
       "product-quantity"
     ]
