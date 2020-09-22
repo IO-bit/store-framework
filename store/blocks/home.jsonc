@@ -7,7 +7,7 @@
       "flex-layout.row",
       "flex-layout.col",
       "shelf",
-      "slider-layout"
+      "slider-layout#home"
     ]
   },
   "rich-text": {
