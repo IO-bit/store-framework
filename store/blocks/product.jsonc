@@ -33,17 +33,7 @@
 
   "flex-layout.row": {
     "children": [
-      "flex-layout.col#left-col",
       "flex-layout.col#right-col"
-    ]
-  },
-
-  "flex-layout.col#left-col": {
-    "props": {
-      "verticalAlign": "middle"
-    },
-    "children": [
-      "sku-selector"
     ]
   },
 
@@ -52,6 +42,7 @@
       "verticalAlign": "middle"
     },
     "children": [
+      "sku-selector",
       "product-quantity"
     ]
   },
