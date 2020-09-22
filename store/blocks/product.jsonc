@@ -27,11 +27,11 @@
       "verticalAlign": "middle"
     },
     "children": [
-      "product-name", "product-identifier.product", "flex-layout.row#qty", "product-price", "buy-button", "shipping-simulator"
+      "product-name", "product-identifier.product", "flex-layout.row", "product-price", "buy-button", "shipping-simulator"
     ]
   },
 
-  "flex-layout.row#qty": {
+  "flex-layout.row": {
     "children": [
       "flex-layout.col#left-col",
       "flex-layout.col#right-col"
