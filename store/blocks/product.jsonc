@@ -51,7 +51,18 @@
       "product-images",
       "product-brand"
     ]
-  }
+  },
 
+  "product-brand": {
+    "props": {
+      "displayMode": "logo"
+    }
+  },
+
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty"
+    }
+  }
 
 }
