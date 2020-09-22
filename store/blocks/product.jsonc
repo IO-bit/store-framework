@@ -54,7 +54,8 @@
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
-      "displayMode": "slider"
+      "displayMode": "slider",
+      "showVariationsErrorMessage": true
     }
   }
 }
