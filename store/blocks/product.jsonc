@@ -22,6 +22,10 @@
   },
 
   "flex-layout.col#right": {
+    "props": {
+      "preventVerticalStretch": true,
+      "verticalAlign": "middle"
+    },
     "children": [
       "product-name", "product-price", "buy-button"
     ]
