@@ -20,7 +20,6 @@
       "product-images"
     ]
   },
-
   "flex-layout.col#right": {
     "props": {
       "preventVerticalStretch": true,
@@ -30,7 +29,6 @@
       "product-name", "product-price", "buy-button"
     ]
   },
-
   "product-price#product-details": {
     "props": {
       "showSavings": true,
