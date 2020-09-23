@@ -5,6 +5,11 @@
       "search-result-layout.customQuery"
     ]
   },
+  "image#landingbanner": {
+    "props": {
+      "minWidth": "100%"
+    }
+  },
   "search-result-layout.customQuery": {
     "props": {
       "querySchema": {
@@ -19,8 +24,5 @@
     "blocks": [
       "search-result-layout.desktop"
     ]
-  },
-  "image#landingbanner": {
-
   }
 }
